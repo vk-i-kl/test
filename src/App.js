@@ -6,7 +6,7 @@ const App = () => {
     return (
         <div>
           Hello world
-            Ти клікнула {state} разів
+            You clicked {state} time
             <button onClick={click}>click me</button>
         </div>
     );
